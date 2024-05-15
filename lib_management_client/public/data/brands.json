@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "brand": "Apple",
+        "brand_name": "Apple",
+        "image_name": "https://i.ibb.co/PCRrBKL/Apple-Logo-1977.png",
+        "sliderImage" :[
+            {
+                "image1": "https://i.ibb.co/5K4XrJ4/banner5.gif",
+                "image2": "https://i.ibb.co/Z1gyfNg/simulba.jpg",
+                "image3": "https://i.ibb.co/Qdrk7z1/394502027-1387860908747177-5858374226859578449-n.jpg",
+                "image4": "https://i.ibb.co/f0Ss5mZ/apple1.png"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "brand": "Samsung",
+        "brand_name": "Samsung",
+        "image_name": "https://i.ibb.co/0GD6GRD/samsung-logo-PNG12.png",
+        "sliderImage": [
+            {
+                "image1": "https://i.ibb.co/KWcXSMP/870-8706206-samsung-mobile-banner-1-samsung-galaxy.jpg",
+                "image2": "https://i.ibb.co/NVSWVjK/952x501-2-7.jpg",
+                "image3": "https://i.ibb.co/hM1f0rH/eabdaadef69a169117a2900e77bfde9f.jpg",
+                "image4": "https://i.ibb.co/5vcDcnh/7d77568035072f2d3377c49970afb431.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "brand": "Sony",
+        "brand_name": "Sony",
+        "image_name": "https://i.ibb.co/fnmb4Rg/Sony-Logo-1957.png",
+        "sliderImage": [
+            {
+                "image1": "https://i.ibb.co/9rnJd26/sony-a1-banner.jpg",
+                "image2": "https://i.ibb.co/zHsVWBz/Sony-Xperia-Pro-banner2-1.jpg",
+                "image3": "https://i.ibb.co/mTRYrzJ/Sony-Xperia-5-V.jpg",
+                "image4": "https://i.ibb.co/qjQxz3w/gsmarena-00.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "brand": "Microsoft",
+        "brand_name": "Microsoft",
+        "image_name": "https://i.ibb.co/Kw1yvbm/microsoft-logo-png-2395.png",
+        "sliderImage": [
+            {
+                "image1": "https://i.ibb.co/1XL7GR6/20230615034846-f90d6d74.jpg",
+                "image2": "https://i.ibb.co/bvbPsS1/banner-4322.jpg",
+                "image3": "https://i.ibb.co/r6nzHvt/031c9308-bc1b-4ff4-a6d7-8ecb16d88d46-CR0-0-970-300-PT0-SX970-V1.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "brand": "HP",
+        "brand_name": "HP",
+        "image_name": "https://i.ibb.co/4Rthj2k/HP-logo-630x630.png",
+        "sliderImage": [
+            {
+                "image1": "https://i.ibb.co/5WpPXyt/01.png",
+                "image2": "https://i.ibb.co/h1sYGGS/hpshopping-discount-codes.jpg",
+                "image3": "https://i.ibb.co/kmgZ780/hpshopping-coupons.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "brand": "Lenovo",
+        "brand_name": "Lenovo",
+        "image_name": "https://i.ibb.co/wzhbL3h/png-clipart-logo-brand-lenovo-thinkpad-ideapad-strategic-blue-text.png",
+        "sliderImage": [
+            {
+                "image1": "https://i.ibb.co/4mxZ4Gz/lenevobanner.jpg",
+                "image2": "https://i.ibb.co/K5f1tGB/lennvo.jpg",
+                "image3": "https://i.ibb.co/kcLy29F/ldgd.jpg",
+                "image4": "https://i.ibb.co/phxq3z9/lenevo.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "brand": "Google",
+        "brand_name": "Google",
+        "image_name": "https://i.ibb.co/gyhGs4B/Colorful-google-logo-design-on-transparent-PNG-1.png",
+        "sliderImage": [
+            {
+                "image1": "https://i.ibb.co/RYy1RYb/maxresdefault.jpg",
+                "image2": "https://i.ibb.co/wQvHhS3/auto-draft-1319.jpg",
+                "image3": "https://i.ibb.co/5jGXGy1/indi01.png"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "brand": "Intel",
+        "brand_name": "Intel",
+        "image_name": "https://i.ibb.co/sq12BYK/intel-blue-text-trademark-thumbnail.png",
+        "sliderImage": [
+            {
+                "image1": "https://i.ibb.co/7Nn4J88/main-banner-e-4x.jpg",
+                "image2": "https://i.ibb.co/CB34QKG/76bfd11f-f5b2-48c1-817c-ff1b991a63c4-CR0-0-1940-600-PT0-SX970-V1.jpg",
+                "image3": "https://i.ibb.co/D79MjFK/01.png"
+            }
+        ]
+    }
+]
